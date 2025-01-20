@@ -10,3 +10,8 @@ Link: https://github.com/MahinARahman/Plant-Friend
 Tools and Techniques: ResNet-9 and Pandas Dictionary
 
 Link: https://github.com/MahinARahman/Airbnb-Pricing-Tool
+
+## Pet-safe Plant Classifier
+Tools and Techniques: ViT and EfficientNet-B3
+
+Link: https://github.com/MahinARahman/Pet-Safe-Plant-Classifier
