@@ -1,7 +1,7 @@
 # Myportfolio
 My personal portfolio showcasing projects and skills.
 
-## Airbnb Pricing tool
+## Airbnb Pricing Tool
 Tools and Techniques: R
 
 Link: https://github.com/MahinARahman/Plant-Friend
